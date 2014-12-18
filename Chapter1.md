@@ -23,6 +23,8 @@ The severity of a wound is determined by the ammount of damage it negated when y
 
 To heal a wound, you must spend a number of days in an extended rest equal to the ammount of damage it negated.  If the extended rest is interrupted, your progress on that wound persists and will resume when you enter another extended rest.
 
+If you have unhealed, untreated wounds and engage in strenuous activity - there is a chance that they will become more severe.  Minor wounds may rise to moderate wounds, moderate wounds may raise to major wounds - fortunately major wounds can't get any worse!  This chance is 50%, and is rolled at the end of the encounter with strenuous activity.
+
 __Exhaustion Levels__:
 
 Various activities, monster abilities, and injuries will grant you exhaustion levels.  When you have exhaustion, it must be rested away before you begin feeling the effects of rest.  Each long rest removes one point of exhaustion. For example, if you have 2 points of exhaustion from pushing yourself, and you've used up all your hit dice, you won't gain any back from resting for the first two nights.
@@ -38,3 +40,11 @@ Various activities, monster abilities, and injuries will grant you exhaustion le
 9. You are _unconscious_.  Your maximum hitpoint value is 0.
 10. You are _dead_.
 
+__Resting__:
+Resting now follows this timeline with the following rewards for resting:
+
+Short rest - 1 Hour - You get back any abilities that say they come back on a short rest, and you can spend any number of hit dice to gain (# spent x (Die roll + Con mod)) hitpoints back.  If you have any minor wounds that require attention, you can use a medical kit to bandage them and help prevent them from becoming more severe.  Once bandaged, wounds only have a 1% chance of opening from strenuous activity.
+
+Long rest - 8 hours with at least 6 hours of sleep - You regain any powers that come back on a long rest, you gain the benefits of a short rest. If you are in safe, comfortable surroundings with food and drink you regain 1/2 of your hit dice (rounded down).
+
+Extended rest - At least 7 days in safe, comfortable surroundings with ample food and drink - You regain all your missing hitpoints, all your missing hit dice, heal all exhaustion (except that from wounds),  and as long as you remain in an extended rest you heal wounds 2 days faster per week.  An extended rest is interrupted by ANY combat, strenuous movement, ability usage, spellcasting, etc - and must be restarted from the beginning.
