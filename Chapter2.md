@@ -5,12 +5,12 @@ __Experience__:
   
 Experience is no longer awarded per the base rule set.  Instead, players are awarded experience points after particularly difficult encounters - combat or otherwise.
 
-Normal Encounter - 0 Experience
-Hard Encounter - 1 Experience
-Deadly Encounter - 2 Experience
-Ludicrous Encounter - 3 Experience
-Mini-Boss - +1 Experience
-Arc-Boss - +2 Experience
+* Normal Encounter - 0 Experience
+* Hard Encounter - 1 Experience
+* Deadly Encounter - 2 Experience
+* Ludicrous Encounter - 3 Experience
+* Mini-Boss - +1 Experience
+* Arc-Boss - +2 Experience
 
 No experience is received for encounters where the characters don't learn anything, where they weren't threatened, or there was no risk.  Partial experience may be awarded for failed encounters, or encounters reaching a less than desireable outcome.
 
