@@ -8,33 +8,33 @@ Zone 2 - Creatures in this zone are in your peripheral vision.  You can see that
 Zone 3 - Creatures in this zone are in your blind spot.  They always receive advantage, and can count attacks as a sneak attack for any abilities they might have.
 
 
-Typical Medium creature:
+__Typical Medium creature__:
 
 Forward facing
-1 1 1 
-2 x 2
-2 3 2
+* 1 1 1 
+* 2 x 2
+* 2 3 2
 
 Diagonal facing
-2 1 1
-2 x 1
-3 2 2
+* 2 1 1
+* 2 x 1
+* 3 2 2
 
 
-Typical Large creature:
+__Typical Large creature__:
 
 Forward facing
-1 1 1 1 1 1
-1 1 1 1 1 1
-2 1 x x 1 2
-2 2 x x 2 2
-2 3 3 3 3 2
-3 3 3 3 3 3
+* 1 1 1 1 1 1
+* 1 1 1 1 1 1
+* 2 1 x x 1 2
+* 2 2 x x 2 2
+* 2 3 3 3 3 2
+* 3 3 3 3 3 3
 
 Diagonal facing
-2 1 1 1 1 1
-2 2 1 1 1 1
-3 2 x x 1 1
-3 3 x x 1 1
-3 3 3 2 2 1
-3 3 3 3 2 2
+* 2 1 1 1 1 1
+* 2 2 1 1 1 1
+* 3 2 x x 1 1
+* 3 3 x x 1 1
+* 3 3 3 2 2 1
+* 3 3 3 3 2 2
